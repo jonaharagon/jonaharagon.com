@@ -1,0 +1,63 @@
+baseURL: 'https://www.jonaharagon.com/'
+languageCode: en-us
+title: '~jonaharagon'
+theme: PaperMod
+
+# Code Highlight
+pygmentsstyle: "monokai"
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+
+params:
+  env: production
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  showtoc: true
+
+  assets:
+    disableHLJS: true
+
+  homeInfoParams:
+    Title: "Hi, I'm Jonah \U0001F44B"
+    Content: |
+      I'm a data privacy advocate currently working with Privacy Guides and Techlore. 
+    
+      I also occasionally post things here. 
+
+  socialIcons:
+    - name: Twitter
+      url: "https://twitter.com/jonaharagon"
+    - name: GitHub
+      url: "https://github.com/jonaharagon"
+    - name: Email
+      url: 'accounts'
+    - name: CV
+      url: 'cv'
+
+menu:
+  main:
+    - identifier: accounts
+      name: Accounts
+      url: accounts
+      weight: 10
+    - identifier: cv
+      name: CV
+      url: cv
+      weight: 20
+    - identifier: privacyguides
+      name: Privacy Guides
+      url: 'https://www.privacyguides.org'
+      weight: 30
