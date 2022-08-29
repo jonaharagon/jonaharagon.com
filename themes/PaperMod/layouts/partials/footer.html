@@ -3,12 +3,13 @@
     {{- if .Site.Copyright }}
     <span>{{ .Site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></span>
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">Jonah Aragon</a></span> -
     {{- end }}
     <span>
         Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer">Hugo</a> &
-        <a href="https://git.io/hugopapermod" rel="noopener">PaperMod</a>
+        <a href="https://gohugo.io/" rel="noopener noreferrer">Hugo</a>,
+        <a href="https://git.io/hugopapermod" rel="noopener noreferrer">PaperMod</a>, and
+        <a href="https://git.sr.ht/~jonaharagon/jonaharagon.com" rel="noopener noreferrer">SourceHut Pages</a>
     </span>
 </footer>
 {{- end }}
