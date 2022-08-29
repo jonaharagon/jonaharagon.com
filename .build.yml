@@ -2,6 +2,7 @@ image: alpine/edge
 oauth: pages.sr.ht/PAGES:RW
 packages:
 - hut
+- hugo
 environment:
   site: jonaharagon.com
 tasks:
