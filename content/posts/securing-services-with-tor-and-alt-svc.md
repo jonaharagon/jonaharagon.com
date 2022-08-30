@@ -3,7 +3,7 @@ title: "Securing Services with Tor and alt-svc"
 date: 2019-05-07
 ---
 
-Some people called for me to write a more technically detailed/in-depth guide to setting up Tor with `alt-svc` after [we set it up on privacytools.io](https://write.privacytools.io/jonah/tor-on-privacytools-io), so while I do it all over again on our Mastodon server, I figured I'd write this post! Plus, it'll make it easier for me if I need to do this again in the future :)
+Some people called for me to write a more technically detailed/in-depth guide to setting up Tor with `alt-svc` after we set it up on privacytools.io, so while I do it all over again on our Mastodon server, I figured I'd write this post! Plus, it'll make it easier for me if I need to do this again in the future :)
 
 When Cloudflare [introduced their Onion Service](https://blog.cloudflare.com/cloudflare-onion-service/) last year, it marked an important milestone in Tor adoption and connectivity. Not only did they add Tor support to nearly all their websites, which will certainly help with reducing the number of captchas seen by Tor users across the internet, it introduced a new and very interesting way to handle Tor traffic.
 
@@ -164,7 +164,5 @@ Unfortunately there's no easy way to definitively tell if it's working at the ti
 This isn't a suitable replacement for actual *hidden* services, but if you operate a clearnet website, this is a great way to help speed up your site for Tor users and reduce load on the exit nodes in the network.
 
 Almost every privacytools.io service is using this method already, I hope this inspires you to convert your own clearnet websites to Tor compatible ones!
-
-[Discuss this post on Privacy Forum!](https://forum.privacytools.io/t/securing-services-with-tor-and-alt-svc/369?u=jonah)
 
 *This post was originally written on my [PrivacyTools admin blog](https://write.privacytools.io/jonah/securing-services-with-tor-and-alt-svc), but I've mirrored it here for safekeeping.*
