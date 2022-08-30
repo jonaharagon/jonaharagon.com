@@ -23,19 +23,20 @@ showtoc: false
         - Research and Writing on Data Privacy and Security Topics
 - **PrivacyTools Services** 2019 - 2020
     - I installed and maintained a variety of free online services for the PrivacyTools community, including:
-        - Mastodon, federated social networking
-        - Discourse, community forum
-        - Matrix, decentralized chat
-        - WriteFreely, decentralized blogging platform
+        - [Matrix](https://matrix.org/), decentralized chat
+        - [Mastodon](https://joinmastodon.org/), federated social networking
+        - [Discourse](https://www.discourse.org/), community forum
+        - [WriteFreely](https://writefreely.org/), decentralized blogging platform
 - **OpenNIC** 2016 - Present
     - DNS Server Operator
     - Developed and hosted project homepage at [opennic.org](https://www.opennic.org/).
 
 ## Education
 
-- **University of Minnesota**
+- **University of Minnesota** ~2024
     - *Degree in Progress*
-- **Anoka-Ramsey Community College**
+    - BASc, Information Technology Infrastructure
+- **Anoka-Ramsey Community College** 2022
     - Associate of Arts
 
 ## Certifications
@@ -49,6 +50,10 @@ showtoc: false
 
 ## Work Experience
 
+- [**Techlore**](https://www.youtube.com/c/techlore) 2021 - Present
+    - Community Administrator
+        - Hosting and management of [discuss.techlore.tech](https://discuss.techlore.tech/) community forum
+        - Video research, writing, and review
 - **Anoka-Hennepin School District** 2020 - Present
     - Technology Paraeducator
         - Support staff and students with hardware and software in a classroom environment
