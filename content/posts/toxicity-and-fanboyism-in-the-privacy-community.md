@@ -3,7 +3,7 @@ title: "Toxicity and Fanboyism in the Privacy Community"
 date: 2022-02-08
 ---
 
-_I wrote this piece as a response to (and general agreement) with [The Real Privacy Enemy is Ourselves](https://medium.com/@henryistaken/the-real-privacy-enemy-is-ourselves-dc2188ad7eeb) by Henry from Techlore, which is a very interesting read. I do work on the [Techlore](https://techlore.tech) YouTube channel and online community myself._
+_I wrote this piece as a response to (and general agreement with) [The Real Privacy Enemy is Ourselves](https://medium.com/@henryistaken/the-real-privacy-enemy-is-ourselves-dc2188ad7eeb) by Henry from Techlore, which is a very interesting read. I do work on the [Techlore](https://techlore.tech) YouTube channel and online community myself._
 
 ---
 
