@@ -8,6 +8,7 @@ environment:
 tasks:
 - package: |
     cd $site
+    patch -p0 -i patches/*.diff
     hugo
     tar -C public -cvz . > ../site.tar.gz
 - upload: |
