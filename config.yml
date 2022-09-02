@@ -1,7 +1,7 @@
 baseURL: 'https://www.jonaharagon.com/'
 languageCode: en-us
 title: '~jonaharagon'
-theme: PaperMod
+theme: WonderMod
 
 # Code Highlight
 pygmentsstyle: "monokai"
