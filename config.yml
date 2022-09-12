@@ -38,6 +38,8 @@ params:
       I also occasionally post things here. 
 
   socialIcons:
+    - name: Mastodon
+      url: "https://aragon.sh/@jonah"
     - name: Twitter
       url: "https://twitter.com/jonaharagon"
     - name: LinkedIn
