@@ -61,7 +61,11 @@ menu:
       name: CV
       url: cv
       weight: 20
+    - identifier: techloretalks
+      name: Techlore Talks (Podcast)
+      url: 'https://www.youtube.com/watch?v=hf5d1L6qfes'
+      weight: 30
     - identifier: privacyguides
       name: Privacy Guides
       url: 'https://www.privacyguides.org'
-      weight: 30
+      weight: 40
