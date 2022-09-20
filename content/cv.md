@@ -39,18 +39,10 @@ showtoc: false
 - **Anoka-Ramsey Community College** 2022
     - Associate of Arts
 
-## Certifications
-
-- **CompTIA A+** (2019 - 2022)
-- **Jamf Certified Associate**
-- **Apple Certified Mac Technician**
-- **Apple Certified iOS Technician**
-- **Google Certified Educator** Level 1
-- **GoGuardian Teacher**
-
 ## Work Experience
 
 - [**Techlore**](https://www.youtube.com/c/techlore) 2021 - Present
+    - *Techlore Talks* Weekly Podcast Co-host
     - Community Administrator
         - Hosting and management of [discuss.techlore.tech](https://discuss.techlore.tech/) community forum
         - Video research, writing, and review
@@ -68,6 +60,15 @@ showtoc: false
 - **DigitalOcean** 2015 - 2016
     - Freelance Technical Writer
         - [Published eight tutorials](https://www.digitalocean.com/community/users/jonaharagon#:~:text=Questions-,Tutorials,-Filter%20Results) on website and server administration-related topics
+
+## Certifications
+
+- [**CompTIA A+**](https://www.credly.com/badges/179b665e-a65e-4a88-a738-fa5c98cd686c/public_url) (2019 - 2022)
+- [**Jamf Certified Associate**](https://verify.skilljar.com/c/8k2mxq4obw2x) Version 10
+- **Apple Certified Mac Technician** 2019
+- **Apple Certified iOS Technician** 2019
+- [**Google Certified Educator**](https://www.credential.net/54713f85-a94e-42c3-9b7f-5fd8044639db?key=f71ec335c990f11dfb770837183fab8a0ce63a7e3b720e15a70f428516ab3426) Level 1
+- [**GoGuardian Teacher**](https://ti-user-certificates.s3.amazonaws.com/af328fe0-a209-4db9-b552-68718ff26a30/f0f6c9bf-6217-44be-bfd8-600272f64f9c-jonah-aragon-05433f51-c12b-418e-afd3-18797f643cd3-certificate.pdf)
 
 ## Organizations
 
