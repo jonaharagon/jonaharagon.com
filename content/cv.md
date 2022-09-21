@@ -14,31 +14,6 @@ showtoc: false
 
 🌎 Minneapolis, MN | [📧 Email](mailto:jonah@triplebit.net) | [LinkedIn](https://www.linkedin.com/in/jonaharagon/) | [GitHub](https://github.com/jonaharagon)
 
-## Voluntary Work
-
-- [**Privacy Guides**](https://www.privacyguides.org) 2020 - Present
-    - Project Lead
-        - 80K+ Monthly Unique Website Visitors
-        - GitHub Code Change Review and Community Management
-        - Research and Writing on Data Privacy and Security Topics
-- **PrivacyTools Services** 2019 - 2020
-    - I installed and maintained a variety of free online services for the PrivacyTools community, including:
-        - [Matrix](https://matrix.org/), decentralized chat
-        - [Mastodon](https://joinmastodon.org/), federated social networking
-        - [Discourse](https://www.discourse.org/), community forum
-        - [WriteFreely](https://writefreely.org/), decentralized blogging platform
-- **OpenNIC** 2016 - Present
-    - DNS Server Operator
-    - Developed and hosted project homepage at [opennic.org](https://www.opennic.org/).
-
-## Education
-
-- **University of Minnesota** ~2024
-    - *Degree in Progress*
-    - BASc, Information Technology Infrastructure
-- **Anoka-Ramsey Community College** 2022
-    - Associate of Arts
-
 ## Work Experience
 
 - [**Techlore**](https://www.youtube.com/c/techlore) 2021 - Present
@@ -57,10 +32,36 @@ showtoc: false
         - Built and launched [experimaxmn.com](https://experimaxmn.com) e-commerce platform, obtaining $20K+ in sales first year
         - Worked with retail customers directly to resolve technology problems
         - Documented processes & trained new hires
+- **Target** 2017 - 2018
+    - Guest Services Team Member
+        - Communicated 1-on-1 with guests and processed transactions in a retail environment to guarantee customer satisfaction.
 - **DigitalOcean** 2015 - 2016
     - Freelance Technical Writer
         - [Published eight tutorials](https://www.digitalocean.com/community/users/jonaharagon#:~:text=Questions-,Tutorials,-Filter%20Results) on website and server administration-related topics
 
+## Voluntary Work
+
+- [**Privacy Guides**](https://www.privacyguides.org) 2020 - Present
+    - Project Lead
+        - 80K+ Monthly Unique Website Visitors
+        - GitHub Code Change Review and Community Management
+        - Research and Writing on Data Privacy and Security Topics
+- **PrivacyTools Services** 2019 - 2020
+    - I installed and maintained a variety of free online services for the PrivacyTools community, including:
+        - [Matrix](https://matrix.org/), decentralized chat
+        - [Mastodon](https://joinmastodon.org/), federated social networking
+        - [Discourse](https://www.discourse.org/), community forum
+        - [WriteFreely](https://writefreely.org/), decentralized blogging platform
+- **OpenNIC** 2016 - Present
+    - DNS Server Operator
+    - Developed and hosted project homepage at [opennic.org](https://www.opennic.org/).
+## Education
+
+- **University of Minnesota** ~2024
+    - *Degree in Progress*
+    - BASc, Information Technology Infrastructure
+- **Anoka-Ramsey Community College** 2022
+    - Associate of Arts
 ## Certifications
 
 - [**CompTIA A+**](https://www.credly.com/badges/179b665e-a65e-4a88-a738-fa5c98cd686c/public_url) (2019 - 2022)
