@@ -14,7 +14,7 @@ showtoc: true
 
 🔗 [www.privacyguides.org](https://www.privacyguides.org) - [Source Code](https://github.com/privacyguides/privacyguides.org)
 
-2021 - Ongoing. *Educational website built with mkdocs and mkdocs-material, with custom-made CSS skin and infoboxes.*
+2021 - Ongoing: *Educational website built with mkdocs and mkdocs-material, with custom-made CSS skin and infoboxes.*
 
 ![Privacy Guides homepage](/portfolio/privacy-guides-1.png)
 
@@ -24,7 +24,7 @@ showtoc: true
 
 🔗 [discuss.techlore.tech](https://discuss.techlore.tech)
 
-2022 - Ongoing. *Lightly skinned Discourse installation with custom CSS solutions and plugins for enhanced functionality.*
+2022 - Ongoing: *Lightly skinned Discourse installation with custom CSS solutions and plugins for enhanced functionality.*
 
 ![Techlore Forum](/portfolio/techlore-forum.png)
 
@@ -32,7 +32,7 @@ showtoc: true
 
 🔗 [experimaxmn.com](https://experimaxmn.com)
 
-2020. *Custom storefront built with WooCommerce and Divi on WordPress.*
+2020: *Custom storefront built with WooCommerce and Divi on WordPress.*
 
 ![ExperimaxMN Homepage](/portfolio/experimax-1.png)
 
@@ -42,7 +42,7 @@ showtoc: true
 
 📦 [Archived Copy](https://web.archive.org/web/20201201162938/https://www.privacytools.io/) - [Source Code](https://github.com/privacytools/privacytools.io)
 
-2019 - 2021, Defunct. *Educational website built with Jekyll and Bootstrap 4.*
+2019 - 2021, Defunct: *Educational website built with Jekyll and Bootstrap 4.*
 
 ![PrivacyTools Homepage](/portfolio/privacytools-1.png)
 
