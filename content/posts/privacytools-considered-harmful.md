@@ -10,7 +10,7 @@ If you don't like drama, feel free to ignore this whole post. It's honestly a ve
 
 ## A Brief Summary
 
-In September 2021, every active contributor to *PrivacyTools* unanimously agreed to move to *Privacy Guides*. This decision was made because PrivacyTools’ founder and controller of the domain name had disappeared for an extended period of time and could not be contacted.
+In September 2021, every active contributor to *PrivacyTools* unanimously agreed to move to [*Privacy Guides*](https://www.privacyguides.org). This decision was made because PrivacyTools’ founder and controller of the domain name had disappeared for an extended period of time and could not be contacted.
 
 Having built a reputable site and set of services on PrivacyTools.io, this caused grave concerns for the future of the project, as any future disruption could wipe out the entire organization with no recovery method. This transition was communicated to our community many months in advance via a variety of channels to ensure the entire process went as smoothly as possible. We did this to ensure nobody was kept in the dark, which has been our modus operandi since our team was created, and to make sure Privacy Guides was recognized as the same reliable organization that PrivacyTools was before the transition.
 
@@ -34,11 +34,7 @@ At the beginning of 2021, the PrivacyTools team grew worried about the future of
 
 Without being in any contact with BurungHantu, the remaining team decided the best course of action would be to move to a new domain name while we still had guaranteed control over the old domain name, sometime before March 2022. Because I had left the team months earlier, I was not involved with making this final decision. This decision was made many months in advance and communicated to the entire team in the hopes that BurungHantu would reach out and assure his continued support for the project, because with a recognizable brand name and large communities online, moving away from "PrivacyTools" was the least desirable possible outcome.
 
-**Following this, in mid-2021 the PrivacyTools team reached out to me, and I agreed to rejoin the team to help with the transition.**
-
-## Community Call to Action
-
-At the end of July 2021, we [informed](https://web.archive.org/web/20210729184422/https://blog.privacytools.io/the-future-of-privacytools/) the PrivacyTools community of our intention to choose a new name and continue the project on a new domain, to be [chosen](https://web.archive.org/web/20210729190935/https://aragon.cloud/apps/forms/cMPxG9KyopapBbcw) on 2nd August 2022. In the end, "Privacy Guides" was selected, partially because I already owned the `privacyguides.org` domain for a side-project from 2020 that went undeveloped.
+**Following this, in mid-2021 the PrivacyTools team reached out to me, and I agreed to rejoin the team to help with the transition.** [We informed the community about our intentions](https://web.archive.org/web/20210729184422/https://blog.privacytools.io/the-future-of-privacytools/) by the end of July.
 
 ## Control of r/privacytoolsIO
 
@@ -58,7 +54,7 @@ On September 14th, 2021, we [announced](https://www.privacyguides.org/blog/2021/
 
 This change [entailed:](https://www.reddit.com/r/PrivacyGuides/comments/pnhn4a/rprivacyguides_privacyguidesorg_what_you_need_to/)
 
-- Redirecting www.privacytools.io to [www.privacyguides.org](https://www.privacyguides.org).
+- Redirecting [www.privacytools.io](https://www.privacyguides.org) to [www.privacyguides.org](https://www.privacyguides.org).
 - Archiving the source code on GitHub to preserve our past work and issue tracker, which we continued to use for months of future development of this site.
 - Posting announcements to our subreddit and various other communities informing people of the official change.
 - Formally closing privacytools.io services, like Matrix and Mastodon, and encouraging existing users to migrate as soon as possible.
@@ -67,15 +63,15 @@ Things appeared to be going smoothly, and most of our active community made the 
 
 ## Following Events
 
-Roughly a week following the transition, BurungHantu returned online for the first time in nearly a year, however nobody on our team was willing to return to PrivacyTools because of his historic unreliability. Rather than apologize for his prolonged absence, he immediately went on the offensive and positioned the transition to Privacy Guides as an attack against him and his project. He subsequently [deleted](https://www.reddit.com/r/privacytoolsIO/comments/pp9yie/comment/hd49wbn) many of these posts when it was pointed out by the community that he had been absent and abandoned the project.
+This brings us to an ongoing, regrettable source of drama. Roughly a week following the transition, BurungHantu returned online for the first time in nearly a year, because he was no longer receiving crypto donations from the website, and he noticed the website redirects in place and his removal from the subreddit a few months ago.
 
-At this point, he claimed he wanted to continue working on privacytools.io on his own and requested that we remove the redirect from www.privacytools.io to [www.privacyguides.org](https://www.privacyguides.org). We obliged and requested that he keep the subdomains for Matrix, Mastodon, and PeerTube active for us to run as a public service to our community for at least a few months, in order to allow users on those platforms to easily migrate to other accounts. Due to the federated nature of the services we provided, they were tied to specific domain names making it very difficult to migrate (and in some cases impossible).
+Nobody on the team was willing to return to PrivacyTools at this point given his historic unreliability, but given that he claimed to want to continue working on privacytools.io on his own, we agreed to remove the redirect from [www.privacytools.io](https://github.com/privacytools/privacytools.io) to [www.privacyguides.org](https://www.privacyguides.org), if he agreed to keep the subdomains for Matrix, Mastodon, and PeerTube pointed to our servers. Our intention was to continue running these platforms as a public service to our community for at least a few months in order to allow users on those platforms to easily migrate to other accounts, because federated accounts are inherently tied to specific domain names, and they are very difficult to migrate once the domain and server no longer exist.
 
-Unfortunately, because control of the r/privacytoolsIO subreddit was not returned to BurungHantu at his demand (further information below), those subdomains were [cut off](https://www.reddit.com/r/PrivacyGuides/comments/pymthv/comment/hexwrps/) at the beginning of October, ending any migration possibilities to any users still using those services.
+Unfortunately, because control of the r/privacytoolsIO subreddit was not returned to BurungHantu at his demand (further information below), [those subdomains were cut off at the beginning of October](https://www.reddit.com/r/PrivacyGuides/comments/pymthv/comment/hexwrps/), ending any migration possibilities to any users still using those services.
 
 ## PrivacyTools.io Now
 
-As of September 25th 2022 we are seeing BurungHantu's overall plans come to fruition on privacytools.io, and this is the very reason we decided to create this explainer page today. The website he is operating appears to be a heavily SEO-optimized version of the site which recommends tools in exchange for financial compensation. Very recently, IVPN and Mullvad, two VPN providers near-universally [recommended](../vpn.md) by the privacy community and notable for their stance against affiliate programs were removed from PrivacyTools. In their place? NordVPN, Surfshark, ExpressVPN, and hide.me; Giant VPN corporations with untrustworthy platforms and business practices, notorious for their aggressive marketing and affiliate programs.
+As of September 25th 2022 we are seeing BurungHantu's overall plans come to fruition on privacytools.io, and this is the very reason we decided to create this explainer page today. The website he is operating appears to be a heavily SEO-optimized version of the site which recommends tools in exchange for financial compensation. Very recently, IVPN and Mullvad, two VPN providers near-universally [recommended](https://www.privacyguides.org/vpn/) by the privacy community and notable for their stance against affiliate programs were removed from PrivacyTools. In their place? NordVPN, Surfshark, ExpressVPN, and hide.me; Giant VPN corporations with untrustworthy platforms and business practices, notorious for their aggressive marketing and affiliate programs.
 
 **PrivacyTools has become exactly the type of site I [warned against]({{< ref "the-trouble-with-vpn-and-privacy-review-sites.md" >}}) on the former PrivacyTools blog in 2019.** I've tried to keep my distance from PrivacyTools since the transition, but their continued harassment towards myself, our project, and now their absurd abuse of the credibility their brand gained over 6 years of open source contributions is extremely troubling. Those of us actually fighting for privacy are not fighting against each other, and are not getting our advice from the highest bidder.
 

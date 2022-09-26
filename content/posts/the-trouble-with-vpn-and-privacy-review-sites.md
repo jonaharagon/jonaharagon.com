@@ -83,4 +83,4 @@ Finally, when you’re choosing a VPN provider, do your own research.  [Understa
 
 ---
 
-This post was originally published on _Privacy Guides_ on November 20, 2019. Updated on October 26, 2021.
+This post was originally published on the _PrivacyTools_ blog on November 20, 2019. Updated on September 25, 2022 to reflect [our move to Privacy Guides]({{< ref "privacytools-considered-harmful.md" >}}).
