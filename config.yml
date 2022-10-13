@@ -42,6 +42,8 @@ params:
       url: "https://aragon.sh/@jonah"
     - name: Twitter
       url: "https://twitter.com/jonaharagon"
+    - name: YouTube
+      url: "https://www.youtube.com/user/jonaharagon"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/jonaharagon/"
     - name: SourceHut
