@@ -6,24 +6,6 @@
     PRODUCTION = "true"
 
 [[redirects]]
-    from = "/"
-    to = "https://jonaharagon.neat.pub"
-    status = 302
-    force = true
-
-[[redirects]]
-    from = "/cv"
-    to = "https://jonaharagon.neat.pub/cv/"
-    status = 302
-    force = true
-
-[[redirects]]
-    from = "/accounts"
-    to = "https://jonaharagon.neat.pub/get-in-touch/"
-    status = 302
-    force = true
-
-[[redirects]]
     from = "/posts/in-defense-of-internet-anonymity/"
     to = "https://jonaharagon.neat.pub/2022/10/30/in-defense-of-internet-anonymity/"
     force = true
