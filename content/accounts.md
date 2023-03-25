@@ -20,22 +20,20 @@ If you have an inquiry about my business, I can also be reached at jonah@aragon.
 
 I am not generally available via IM and will likely not respond to any message requests in a timely manner, but if you do receive a message from me, I use the following accounts:
 
-- Signal: `763-308-5533`
-- Matrix: [`@jonah:aragon.sh`](https://matrix.to/#/@jonah:aragon.sh)
-- Discord: `@Jonah#1111`
+- Matrix: [`@jonah:neat.chat`](https://matrix.to/#/@jonah:neat.chat)
 
 If you receive a message claiming to be me from an account not listed here, please email me to confirm that account's identity.
 
 ## Social Media
 
-- Mastodon: [@jonah@aragon.sh](https://aragon.sh/@jonah)
+- Mastodon: [@jonah@aragon.sh](https://mastodon.neat.computer/@jonah)
 - Twitter: [@jonaharagon](https://twitter.com/jonaharagon)
 - Reddit: [u/jonaharagon](https://www.reddit.com/user/JonahAragon)
 - LinkedIn: [in/jonaharagon](https://www.linkedin.com/in/jonaharagon/)
 
 ## Code
 
-Most of my public contributions and discussions for various open source projects, including Privacy Guides, can be found on [my GitHub profile](https://github.com/jonaharagon), however my personal projects are now hosted on [sourcehut](https://sr.ht/~jonaharagon/).
+Most of my public contributions and discussions for various open source projects, including Privacy Guides, can be found on [my GitHub profile](https://github.com/jonaharagon).
 
 I currently sign my Git commits with SSH:
 
