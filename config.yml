@@ -39,7 +39,7 @@ params:
 
   socialIcons:
     - name: Mastodon
-      url: "https://aragon.sh/@jonah"
+      url: "https://mastodon.neat.computer/@jonah"
     - name: OMG.lol
       url: "https://jonah.omg.lol"
     - name: YouTube
