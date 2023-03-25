@@ -1,6 +1,6 @@
 baseURL: 'https://www.jonaharagon.com/'
 languageCode: en-us
-title: '~jonaharagon'
+title: 'Jonah Aragon'
 theme: WonderMod
 
 # Code Highlight
@@ -40,14 +40,12 @@ params:
   socialIcons:
     - name: Mastodon
       url: "https://aragon.sh/@jonah"
-    - name: Twitter
-      url: "https://twitter.com/jonaharagon"
+    - name: OMG.lol
+      url: "https://jonah.omg.lol"
     - name: YouTube
       url: "https://www.youtube.com/user/jonaharagon"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/jonaharagon/"
-    - name: SourceHut
-      url: "https://sr.ht/~jonaharagon"
     - name: GitHub
       url: "https://github.com/jonaharagon"
     - name: CV
@@ -59,9 +57,13 @@ menu:
       name: Accounts
       url: accounts
       weight: 10
-    - identifier: portfolio
-      name: Web Portfolio
-      url: portfolio
+    - identifier: blog
+      name: Blog
+      url: https://jonaharagon.neat.pub/
+      weight: 20
+    - identifier: newsletter
+      name: Newsletter
+      url: https://jonaharagon.substack.com/
       weight: 20
     - identifier: cv
       name: CV

@@ -6,6 +6,11 @@
     PRODUCTION = "true"
 
 [[redirects]]
+    from = "/posts/linus-tech-tips-hacked-whos-to-blame/"
+    to = "https://jonaharagon.neat.pub/2023/03/24/who-is-really-to-blame-for-the-linus-tech-tips-hack/"
+    force = true
+
+[[redirects]]
     from = "/posts/in-defense-of-internet-anonymity/"
     to = "https://jonaharagon.neat.pub/2022/10/30/in-defense-of-internet-anonymity/"
     force = true
