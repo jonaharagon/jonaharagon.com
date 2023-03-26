@@ -57,10 +57,6 @@ menu:
       name: Accounts
       url: accounts
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: https://jonaharagon.neat.pub/
-      weight: 20
     - identifier: newsletter
       name: Newsletter
       url: https://jonaharagon.substack.com/
