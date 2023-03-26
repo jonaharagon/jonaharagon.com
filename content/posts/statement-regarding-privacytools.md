@@ -3,7 +3,7 @@ title: Brief Statement Regarding PrivacyTools.io
 date: 2022-10-25
 ---
 
-At some point, [Marco Wollank](https://jonaharagon.neat.pub/2022/09/25/what-is-the-deal-with-privacytools/), the operator of the "PrivacyTools.io" website, published a defamatory blog post entitled: "Jonah Aragon's (PrivacyGuides) Failed Attempt to Takeover PrivacyTools.io"
+At some point, [Marco Wollank](https://www.privacyguides.org/about/privacytools/), the operator of the "PrivacyTools.io" website, published a defamatory blog post entitled: "Jonah Aragon's (PrivacyGuides) Failed Attempt to Takeover PrivacyTools.io"
 
 **The allegations presented in that blog post are completely false, and I am considering pursuing legal action.**
 
