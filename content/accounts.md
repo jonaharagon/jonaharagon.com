@@ -26,8 +26,8 @@ If you receive a message claiming to be me from an account not listed here, plea
 
 ## Social Media
 
-- Mastodon: [@jonah@aragon.sh](https://mastodon.neat.computer/@jonah)
-- Twitter: [@jonaharagon](https://twitter.com/jonaharagon)
+- Mastodon: [@jonah@neat.computer](https://mastodon.neat.computer/@jonah)
+- YouTube: [@jonaharagon](https://youtube.com/@jonaharagon)
 - Reddit: [u/jonaharagon](https://www.reddit.com/user/JonahAragon)
 - LinkedIn: [in/jonaharagon](https://www.linkedin.com/in/jonaharagon/)
 

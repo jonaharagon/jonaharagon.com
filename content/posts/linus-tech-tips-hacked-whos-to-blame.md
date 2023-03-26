@@ -59,4 +59,4 @@ Luckily, Linus’ channels were eventually restored, and it’s unlikely they’
 
 ---
 
-I am a digital privacy advocate and educator working on the non-profit Privacy Guides knowledgebase and the Techlore YouTube channel, with the goal of making privacy and security resources accessible to anybody interested in protecting their data. If you like the work I do, please consider sponsoring my work on [Ko-Fi](https://ko-fi.com/jonaharagon) or [GitHub Sponsors](https://github.com/sponsors/jonaharagon), it would be hugely appreciated. Thanks for reading, and I hope you learned something new!
+*I am a digital privacy advocate and educator working on the non-profit Privacy Guides knowledgebase and the Techlore YouTube channel, with the goal of making privacy and security resources accessible to anybody interested in protecting their data. If you like the work I do, please consider sponsoring my work on [Ko-Fi](https://ko-fi.com/jonaharagon) or [GitHub Sponsors](https://github.com/sponsors/jonaharagon), it would be hugely appreciated. Thanks for reading, and I hope you learned something new!*

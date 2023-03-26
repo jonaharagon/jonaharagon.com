@@ -12,12 +12,12 @@ showtoc: false
 
 *I am a University of Minnesota student, Linux user, and system administrator interested in internet data privacy, security, and open source projects.*
 
-🌎 Minneapolis, MN | [📧 Email](mailto:jonah@triplebit.net) | [LinkedIn](https://www.linkedin.com/in/jonaharagon/) | [GitHub](https://github.com/jonaharagon)
+🌎 Minneapolis, MN | [📧 Email](mailto:jonah@triplebit.net) | [LinkedIn](https://www.linkedin.com/in/jonaharagon/) | [IMDb](https://www.imdb.com/name/nm14688522/) | [GitHub](https://github.com/jonaharagon)
 
 ## Work Experience
 
 - [**Techlore**](https://www.youtube.com/c/techlore) 2021 - Present
-    - *Techlore Talks* Weekly Podcast Co-host
+    - *Techlore Talks* Podcast Co-host
     - Community Administrator
         - Hosting and management of [discuss.techlore.tech](https://discuss.techlore.tech/) community forum
         - Video research, writing, and review
@@ -43,10 +43,10 @@ showtoc: false
 
 - [**Privacy Guides**](https://www.privacyguides.org) 2020 - Present
     - Project Lead
-        - 80K+ Monthly Unique Website Visitors
+        - 100K+ Monthly Unique Website Visitors
         - GitHub Code Change Review and Community Management
         - Research and Writing on Data Privacy and Security Topics
-- **PrivacyTools Services** 2019 - 2020
+- **[PrivacyTools](https://www.privacyguides.org/en/about/privacytools/) Services** 2019 - 2020
     - I installed and maintained a variety of free online services for the PrivacyTools community, including:
         - [Matrix](https://matrix.org/), decentralized chat
         - [Mastodon](https://joinmastodon.org/), federated social networking
@@ -59,7 +59,6 @@ showtoc: false
 
 - **University of Minnesota** ~2024
     - *Degree in Progress*
-    - BASc, Information Technology Infrastructure
 - **Anoka-Ramsey Community College** 2022
     - Associate of Arts
 ## Certifications
