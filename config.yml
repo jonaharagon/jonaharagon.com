@@ -33,9 +33,9 @@ params:
   homeInfoParams:
     Title: "Hi, I'm Jonah \U0001F44B"
     Content: |
-      I'm a data privacy advocate currently working with Privacy Guides and Techlore. 
-    
-      I also occasionally post things here. 
+      Jonah Aragon is creating educational resources for average people to understand the importance of privacy and security on the internet, and take back control over their digital lives. 
+      
+      He is known for his work on the [Techlore](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CZRb5Z4qZjsIGZrUWbDc3Mn) YouTube channel, including the [Techlore Talks](https://www.imdb.com/title/tt27252550/) podcast he co-hosts, and the [Privacy Guides](https://www.privacyguides.org) non-profit website.
 
   socialIcons:
     - name: Mastodon
