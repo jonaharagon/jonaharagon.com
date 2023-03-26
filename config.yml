@@ -40,6 +40,8 @@ params:
   socialIcons:
     - name: Mastodon
       url: "https://mastodon.neat.computer/@jonah"
+    - name: KoFi
+      url: https://ko-fi.com/jonaharagon
     - name: OMG.lol
       url: "https://jonah.omg.lol"
     - name: YouTube
