@@ -1,0 +1,24 @@
+<div class="buttons">
+  <p><center>If you liked this post, please join my email newsletter and stay in touch! :)</center></p>
+  <a class="button" href="https://jonaharagon.substack.com/subscribe" rel="noopener" title="Subscribe"><span class="button-inner">Subscribe</span></a>
+</div>
+
+{{- $pages := .CurrentSection.RegularPages.ByDate }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+<nav class="paginav">
+  {{- with $pages.Next . }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ i18n "prev_page" }}</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- with $pages.Prev . }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ i18n "next_page" }} »</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
