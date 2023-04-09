@@ -8,6 +8,8 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 showtoc: false
+author:
+  -
 ---
 
 ## Contact Me

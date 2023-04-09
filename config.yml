@@ -37,6 +37,7 @@ params:
   mainSections:
      - posts
      - techlore-talks
+     - digitalocean
 
   assets:
     disableHLJS: true
@@ -63,6 +64,8 @@ params:
       url: "https://github.com/jonaharagon"
     - name: CV
       url: 'cv'
+    - name: RSS
+      url: "/posts/index.xml"
 
 menu:
   main:

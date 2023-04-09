@@ -8,4 +8,4 @@ Of course, this archive will not be a complete record of everything I have autho
 - [Every Pull Request I've authored for Privacy Guides](https://github.com/privacyguides/privacyguides.org/pulls?q=is:pr+author:jonaharagon)
 - [Every Pull Request I've authored prior to September 2020](https://github.com/privacytools/privacytools.io/pulls?q=is:pr+author:jonaharagon)
 
-In addition, some articles I have authored were cross-posted to my personal [blog](/posts/), such as my [introduction to threat modeling](http://localhost:1313/posts/threat-modeling/), and will not appear on this page.
+In addition, I have done a significant amount of writing and editing on pull requests which were authored by other people, which will not appear on those lists; and some articles I have authored were cross-posted to my personal [blog](/posts/)—such as my [introduction to threat modeling](http://localhost:1313/posts/threat-modeling/)—and will not appear on this page.

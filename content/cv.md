@@ -8,6 +8,8 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 showtoc: false
+author:
+    -
 ---
 
 I create educational resources for average people to understand the importance of privacy and security on the internet, and take back control over their digital lives.
@@ -40,6 +42,7 @@ You may know me from work on the [Techlore](https://www.youtube.com/playlist?lis
 - **DigitalOcean** 2015 - 2016
     - Freelance Technical Writer
         - [Published eight tutorials](https://www.digitalocean.com/community/users/jonaharagon#:~:text=Questions-,Tutorials,-Filter%20Results) on website and server administration-related topics
+        - [Writing Work Archive](/digitalocean)
 
 ## Voluntary Work
 
@@ -48,6 +51,7 @@ You may know me from work on the [Techlore](https://www.youtube.com/playlist?lis
         - 100K+ Monthly Unique Website Visitors
         - GitHub Code Change Review and Community Management
         - Research and Writing on Data Privacy and Security Topics
+    - [Writing Work Archive](/privacy-guides)
 - **[PrivacyTools](https://www.privacyguides.org/en/about/privacytools/) Services** 2019 - 2020
     - I installed and maintained a variety of free online services for the PrivacyTools community, including:
         - [Matrix](https://matrix.org/), decentralized chat
