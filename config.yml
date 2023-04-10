@@ -23,7 +23,7 @@ params:
     - security
   env: production
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -38,6 +38,8 @@ params:
      - posts
      - techlore-talks
      - digitalocean
+     - interviews
+     - experimax
 
   assets:
     disableHLJS: true
