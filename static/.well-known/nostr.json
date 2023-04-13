@@ -1,0 +1,9 @@
+{
+  "names": {
+    "jonah": "323b65e7c42033373dffddd4e779c2128869f9e80b812da47f5215cbe4d56aa3",
+    "_": "323b65e7c42033373dffddd4e779c2128869f9e80b812da47f5215cbe4d56aa3"
+  },
+  "relays": {
+    "323b65e7c42033373dffddd4e779c2128869f9e80b812da47f5215cbe4d56aa3": ["wss://relay.damus.io", "wss://nos.lol"]
+  }
+}

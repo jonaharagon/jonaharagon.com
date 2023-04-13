@@ -4,3 +4,8 @@
 
 [context.production.environment]
     PRODUCTION = "true"
+
+[[headers]]
+  for = "/.well-known/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
