@@ -1,8 +1,6 @@
-<div class="buttons">
-  <p><center>If you liked this post, please join my email newsletter and stay in touch! :)</center></p>
-  <a class="button" href="https://jonaharagon.substack.com/subscribe" rel="noopener" title="Subscribe"><span class="button-inner">Subscribe</span></a>
-</div>
-
+<center><p>If you liked this post, please join my email newsletter and stay in touch! :)</p>
+<iframe src="https://jonaharagon.substack.com/embed" width="100%" height="320" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</center>
 {{- $pages := .CurrentSection.RegularPages.ByDate }}
 {{- if and (gt (len $pages) 1) (in $pages . ) }}
 <nav class="paginav">
