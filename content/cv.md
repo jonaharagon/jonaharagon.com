@@ -8,6 +8,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 showtoc: false
+ShowPostNavLinks: false
 author:
     -
 ---

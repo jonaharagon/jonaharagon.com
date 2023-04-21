@@ -7,6 +7,7 @@ ShowBreadCrumbs: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
+ShowPostNavLinks: false
 showtoc: true
 ---
 

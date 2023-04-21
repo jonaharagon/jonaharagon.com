@@ -8,6 +8,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 showtoc: false
+ShowPostNavLinks: false
 author:
   -
 ---
@@ -23,6 +24,7 @@ If you have an inquiry about my business, I can also be reached at jonah@aragon.
 I am not generally available via IM and will likely not respond to any message requests in a timely manner, but if you do receive a message from me, I use the following accounts:
 
 - Matrix: [`@jonah:neat.chat`](https://matrix.to/#/@jonah:neat.chat)
+- SimpleX: [QR Code](/simplex)
 
 If you receive a message claiming to be me from an account not listed here, please email me to confirm that account's identity.
 
