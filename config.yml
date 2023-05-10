@@ -9,6 +9,9 @@ pygmentscodefences: true
 pygmentscodefencesguesssyntax: true
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     codeFences: true
     guessSyntax: true
@@ -40,6 +43,7 @@ params:
      - digitalocean
      - interviews
      - experimax
+     - video
 
   assets:
     disableHLJS: true
@@ -56,14 +60,14 @@ params:
       url: "https://mastodon.neat.computer/@jonah"
     - name: KoFi
       url: https://ko-fi.com/jonaharagon
-    - name: OMG.lol
-      url: "https://jonah.omg.lol"
-    - name: YouTube
-      url: "https://www.youtube.com/user/jonaharagon"
-    - name: LinkedIn
-      url: "https://www.linkedin.com/in/jonaharagon/"
     - name: GitHub
       url: "https://github.com/jonaharagon"
+    - name: YouTube
+      url: "https://www.youtube.com/user/jonaharagon"
+    - name: PeerTube
+      url: "https://neat.tube/c/jonah_channel/videos"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/jonaharagon/"
     - name: CV
       url: 'cv'
     - name: RSS

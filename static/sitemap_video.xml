@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.jonaharagon.com/video/passkeys/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://neat.tube/static/thumbnails/96b86c0f-8543-49fe-9586-bb0bed312efe.jpg</video:thumbnail_loc>
+      <video:title>Are Passkeys a Big Tech Tracking Nightmare? Let's Take a Look!</video:title>
+      <video:description>Passkeys have really started taking off since Apple and Google announced native support for them in iOS and Android. They've been in the news again recently, because earlier this month Google announced support for passwordless authentication for Google accounts with Passkeys. So, with big tech companies seemingly going all-in on this technology, I want to take a look at how they work, whether they're better than passwords, and whether they're actually as private as Google claims.</video:description>
+      <video:player_loc>https://neat.tube/videos/embed/0fc71036-b3f1-4140-92c7-598df7fe64c9</video:player_loc>
+    </video:video>
+  </url>
+</urlset>
