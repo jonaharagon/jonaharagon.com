@@ -9,6 +9,7 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 ShowPostNavLinks: false
 showtoc: true
+comments: false
 ---
 
 ## Privacy Guides

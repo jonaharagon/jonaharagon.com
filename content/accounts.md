@@ -11,6 +11,7 @@ showtoc: false
 ShowPostNavLinks: false
 author:
   -
+comments: false
 ---
 
 ## Contact Me

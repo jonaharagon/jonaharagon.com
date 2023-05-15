@@ -24,6 +24,7 @@ params:
     - privacy
     - technology
     - security
+  comments: true
   env: production
 
   ShowReadingTime: false

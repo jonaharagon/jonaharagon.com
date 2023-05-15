@@ -11,6 +11,7 @@ showtoc: false
 ShowPostNavLinks: false
 author:
     -
+comments: false
 ---
 
 I create educational resources for average people to understand the importance of privacy and security on the internet, and take back control over their digital lives.
