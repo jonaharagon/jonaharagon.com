@@ -18,7 +18,8 @@ Passkeys have really started taking off since Apple and Google announced native 
     ],
   "uploadDate": "2023-05-09",
   "duration": "PT7M35S",
-  "embedUrl": "https://neat.tube/videos/embed/0fc71036-b3f1-4140-92c7-598df7fe64c9"
+  "embedUrl": "https://neat.tube/videos/embed/0fc71036-b3f1-4140-92c7-598df7fe64c9",
+  "contentUrl": "https://neat.tube/w/2X12Cz1Uue2WvUtjNWVJX4"
 }
 </script>
 

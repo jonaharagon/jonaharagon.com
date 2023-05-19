@@ -2,12 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
+    <loc>https://www.jonaharagon.com/video/bluesky/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://neat.tube/static/thumbnails/45300774-116e-432a-8cba-2d8712374e16.jpg</video:thumbnail_loc>
+      <video:title>Bluesky Social's Advantages and Disadvantages Explained</video:title>
+      <video:description>Bluesky Social is one of the biggest contenders in the fight to replace Twitter, but does it live up to its goals? I've been using Bluesky for a few weeks now, and I want to highlight some of its advantages over other popular competitors like Mastodon, and explain why I think it still has a long ways to go before it makes sense.</video:description>
+      <video:player_loc>https://neat.tube/videos/embed/fdd631ae-5fa5-4bb2-a7b2-21364937bc7e</video:player_loc>
+      <video:content_loc>https://neat.tube/w/2X12Cz1Uue2WvUtjNWVJX4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.jonaharagon.com/video/passkeys/</loc>
     <video:video>
       <video:thumbnail_loc>https://neat.tube/static/thumbnails/96b86c0f-8543-49fe-9586-bb0bed312efe.jpg</video:thumbnail_loc>
       <video:title>Are Passkeys a Big Tech Tracking Nightmare? Let's Take a Look!</video:title>
       <video:description>Passkeys have really started taking off since Apple and Google announced native support for them in iOS and Android. They've been in the news again recently, because earlier this month Google announced support for passwordless authentication for Google accounts with Passkeys. So, with big tech companies seemingly going all-in on this technology, I want to take a look at how they work, whether they're better than passwords, and whether they're actually as private as Google claims.</video:description>
       <video:player_loc>https://neat.tube/videos/embed/0fc71036-b3f1-4140-92c7-598df7fe64c9</video:player_loc>
+      <video:content_loc>https://neat.tube/w/2X12Cz1Uue2WvUtjNWVJX4</video:content_loc>
     </video:video>
   </url>
 </urlset>
