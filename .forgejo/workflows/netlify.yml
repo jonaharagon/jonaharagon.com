@@ -1,0 +1,17 @@
+on: push
+env:
+  NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE }}
+  NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_PAT }}
+jobs:
+  deploy:
+    runs-on: docker
+    steps:
+      - uses: https://code.forgejo.org/actions/checkout@v3
+        with:
+          submodules: recursive
+      - uses: https://github.com/peaceiris/actions-hugo@v2
+        with:
+           hugo-version: latest
+      - run: hugo --minify
+      - run: npm install netlify-cli -g
+      - run: netlify deploy --dir=public --prod
