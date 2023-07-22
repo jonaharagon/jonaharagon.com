@@ -12,6 +12,7 @@ jobs:
       - uses: https://github.com/peaceiris/actions-hugo@v2
         with:
            hugo-version: latest
+           extended: true
       - run: hugo --minify
       - run: npm install netlify-cli -g
       - run: netlify deploy --dir=public --prod

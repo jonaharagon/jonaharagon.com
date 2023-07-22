@@ -1,0 +1,75 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "hugo-winston-fork"
+themesDir = "themes"
+title = "Jonah Aragon"
+paginate = 8
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  twitter_handle = "@jonaharagon"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showIntroContentOnHomepage = true
+  showPostsOnHomepage = true
+  showBreadcrumbs = true
+  usePaginationOnHomepage = true
+  limitPostsOnHomepage = 5 # only used if usePaginationOnHomepage is false
+  sortPostsByDateOldestFirst = false
+  addDot = false
+  addFrame = false
+  highlightColor = '#7b16ff'
+  baseColor = "#ffffff"
+  baseOffsetColor = "#eaeaea"
+  headingColor = "#1c1b1d"
+  textColor = "#4e5157"
+  dotColor = "#7b16ff"
+  fontFamilyHeading = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"'
+  fontFamilyParagraph = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"'
+  fontFamilyMonospace = 'SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;'
+  mainSections = [
+    "posts",
+    "techlore-talks",
+    "digitalocean",
+    "interviews",
+    "experimax",
+    "video"
+  ]
+
+
+# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[menu]
+  [[menu.main]]
+    name = 'Accounts'
+    identifier = 'accounts'
+    url = '/accounts/'
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    weight = 2
+    url = "/posts/"
+  [[menu.main]]
+    name = "Newsletter"
+    identifier = "newsletter"
+    weight = 3
+    url = "https://jonaharagon.substack.com/"
+  [[menu.main]]
+    name = "CV"
+    identifier = "cv"
+    weight = 4
+    url = "/cv/"

@@ -31,10 +31,11 @@ If you receive a message claiming to be me from an account not listed here, plea
 
 - Mastodon: [@jonah@neat.computer](https://mastodon.neat.computer/@jonah)
 - YouTube: [@jonaharagon](https://youtube.com/@jonaharagon)
-- Reddit: [u/jonaharagon](https://www.reddit.com/user/JonahAragon)
 - LinkedIn: [in/jonaharagon](https://www.linkedin.com/in/jonaharagon/)
 
 ## Code
+
+My personal projects are hosted on [git.jonaharagon.net](https://git.jonaharagon.net/jonah).
 
 Most of my public contributions and discussions for various open source projects, including Privacy Guides, can be found on [my GitHub profile](https://github.com/jonaharagon).
 

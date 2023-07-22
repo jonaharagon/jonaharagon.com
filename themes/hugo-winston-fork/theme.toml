@@ -1,0 +1,13 @@
+name = "Hugo Winston Fork"
+license = "MIT"
+description = "A fork of the Hugo Winston theme by zerostatic for jonaharagon.com"
+
+homepage = "https://www.jonaharagon.com"
+demosite = "https://www.jonaharagon.com"
+
+tags = ["blog", "minimal", "clean"]
+features = ["blog"]
+
+[author]
+  name = "Jonah Aragon"
+  homepage = "https://www.jonaharagon.com"
