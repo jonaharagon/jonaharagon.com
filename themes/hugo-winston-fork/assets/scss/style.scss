@@ -1,13 +1,24 @@
 :root {
-  --font-family-heading: {{ .Site.Params.fontFamilyHeading | default "'Poppins', sans-serif" }};
-  --font-family-paragraph: {{ .Site.Params.fontFamilyParagraph | default "'Helvetica', sans-serif" }};
-  --font-family-monospace: {{ .Site.Params.fontFamilyMonospace | default "monospace" }};
-  --base-color: var(--arc-palette-background, {{ .Site.Params.baseColor | default "#ffffff" }});
-  --base-offset-color: {{ .Site.Params.baseOffsetColor | default "#eaeaea" }};
-  --highlight-color: var(--arc-palette-maxContrastColor, {{ .Site.Params.highlightColor | default "#7b16ff" }});
-  --heading-color: var(--arc-palette-title, {{ .Site.Params.headingColor | default "#1c1b1d" }});
-  --text-color: {{ .Site.Params.textColor | default "#4e5157" }};
-  --dot-color: var(--arc-palette-maxContrastColor, {{ .Site.Params.dotColor | default "#7b16ff" }});
+  --font-family-heading: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-paragraph: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --base-color: var(--arc-palette-background, #ffffff);
+  --highlight-color: var(--arc-palette-maxContrastColor, #7b16ff);
+  --heading-color: var(--arc-palette-title, #1c1b1d);
+  --text-color: #4e5157;
+  --dot-color: var(--arc-palette-maxContrastColor, #7b16ff);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --base-color: var(--arc-palette-title, #1c1b1d);
+    --highlight-color: var(--arc-palette-background, #b688f3);
+    --heading-color: var(--arc-palette-background, #ffffff);
+    --text-color: var(--arc-palette-focus, #bbbbbb);
+    --dot-color: var(--arc-palette-maxContrastColor, #7b16ff);
+  }
+  .highlight {
+    color: black;
+  }
 }
 
 $breakpoints: (
