@@ -2,12 +2,12 @@
   --font-family-heading: {{ .Site.Params.fontFamilyHeading | default "'Poppins', sans-serif" }};
   --font-family-paragraph: {{ .Site.Params.fontFamilyParagraph | default "'Helvetica', sans-serif" }};
   --font-family-monospace: {{ .Site.Params.fontFamilyMonospace | default "monospace" }};
-  --base-color: {{ .Site.Params.baseColor | default "#ffffff" }};
+  --base-color: var(--arc-palette-background, {{ .Site.Params.baseColor | default "#ffffff" }});
   --base-offset-color: {{ .Site.Params.baseOffsetColor | default "#eaeaea" }};
-  --highlight-color: {{ .Site.Params.highlightColor | default "#7b16ff" }};
-  --heading-color: {{ .Site.Params.headingColor | default "#1c1b1d" }};
+  --highlight-color: var(--arc-palette-maxContrastColor, {{ .Site.Params.highlightColor | default "#7b16ff" }});
+  --heading-color: var(--arc-palette-title, {{ .Site.Params.headingColor | default "#1c1b1d" }});
   --text-color: {{ .Site.Params.textColor | default "#4e5157" }};
-  --dot-color: {{ .Site.Params.dotColor | default "#7b16ff" }};
+  --dot-color: var(--arc-palette-maxContrastColor, {{ .Site.Params.dotColor | default "#7b16ff" }});
 }
 
 $breakpoints: (

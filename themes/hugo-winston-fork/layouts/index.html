@@ -16,7 +16,7 @@
       {{ range .Site.Data.social.links }}
         <span class="social-icon social-icon-{{ .name | urlize }}">
           <a href="{{ .url }}" title="{{ .name }}" target="_blank" rel="noopener">
-            <img src="{{ .image | relURL }}" width="32" height="32" alt="{{ .name }}"/>
+            <i class="{{ .icon }} fa-2xl" alt="{{ .name }}"></i>
           </a>
         </span>
       {{ end }}
