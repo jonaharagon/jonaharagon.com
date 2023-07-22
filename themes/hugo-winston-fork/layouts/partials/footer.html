@@ -1,4 +1,7 @@
 <div class="footer">
+  <div class="footer-copyright">
+    <span>&copy; 2015 – {{ now.Year }} <a href="{{ "" | absLangURL }}">Jonah Aragon</a> • <a href="https://git.jonaharagon.net/jonah/jonaharagon.com">Website Source</a></span>
+  </div>
   {{ if .Site.Data.social.links }}
   <div class="footer-social">
     {{ range .Site.Data.social.links }}
