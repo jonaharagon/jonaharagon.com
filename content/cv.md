@@ -29,14 +29,13 @@ I have been a passionate digital privacy and cybersecurity advocate for many yea
     - Hosting and management of [discuss.techlore.tech](https://discuss.techlore.tech/) community forum
 - **MN School District 11** 2020 - 2023
   - Technology Paraeducator
-    - Support staff and students with hardware and software in a classroom environment
+    - Empowered technology usage in a classroom environment
     - Documented technical processes and procedures
     - Supported and distributed Chromebooks to students during distance learning (2020)
 - **Experimax** 2018 - 2021
   - Sr. IT Technician
     - Specialized in Apple software and hardware
-    - Built and launched *experimaxmn.com* e-commerce platform, obtaining $20K+ in sales first year
-    - Worked with retail customers directly to resolve technology problems
+    - Built and launched *experimaxmn.com* e-commerce platform
     - Documented processes & trained new hires
 - **Target** 2017 - 2018
   - Guest Services Team Member
@@ -86,20 +85,28 @@ I have been a passionate digital privacy and cybersecurity advocate for many yea
   - Executive Board Member
   - Local Cluster Lead Representative
 
-## IT Skills
+## Skills
 
+- Digital Privacy
+- Writing & Code Review
+- Technical Writing
+- Community Management
 - Linux Administration
   - CentOS, RHEL, Ubuntu Server
 - Git
-  - GitHub organization management
-  - Issue tracking, discussions, pull requests, code review
-  - GitHub Pages
 - DNS
   - Authoritative zone administration
   - Recursive nameserver operation
   - DNSSEC
 - Windows Server
   - ActiveDirectory, Group Policy, etc.
-- Technical Writing
 - Troubleshooting & Support
 - WordPress
+
+### Educational Achievement
+
+- ACT: **35** (99th percentile)
+- AP Scholar Award
+- AP Calculus AB: **5**
+- AP Computer Science A: **4**
+- AP World History: **4**
