@@ -14,61 +14,63 @@ author:
 comments: false
 ---
 
-I create educational resources for average people to understand the importance of privacy and security on the internet, and take back control over their digital lives.
+🌎 Minneapolis, MN • [Email](mailto:jonah@triplebit.net) • [LinkedIn](https://www.linkedin.com/in/jonaharagon/) • [GitHub](https://github.com/jonaharagon) • [Media Appearances](/interviews/)
 
-You may know me from work on the [Techlore](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CZRb5Z4qZjsIGZrUWbDc3Mn) YouTube channel, including the [Techlore Talks](https://www.imdb.com/title/tt27252550/) podcast I co-host, and the [Privacy Guides](https://www.privacyguides.org) non-profit website which I founded and am a lead contributor to.
+*Currently, I am a full-time pre-pharmacy student at the University of Minnesota. I am not actively seeking additional work at this time.*
 
-🌎 Minneapolis, MN | [📧 Email](mailto:jonah@triplebit.net) | [LinkedIn](https://www.linkedin.com/in/jonaharagon/) | [GitHub](https://github.com/jonaharagon) | [Media Appearances](/interviews/)
+I have been a passionate digital privacy and cybersecurity advocate for many years. You may know me from my work on the [Techlore](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CZRb5Z4qZjsIGZrUWbDc3Mn) YouTube channel, including the [Techlore Talks](https://www.imdb.com/title/tt27252550/) podcast I co-host, as well as the [Privacy Guides](https://www.privacyguides.org) non-profit website which I founded and am a lead contributor to.
 
 ## Work Experience
 
-- [**Techlore**](https://www.youtube.com/c/techlore) 2021 - Present
-    - *Techlore Talks* Podcast Co-host
-    - Community Administrator
-        - Hosting and management of [discuss.techlore.tech](https://discuss.techlore.tech/) community forum
-        - Video research, writing, and review
-- **Anoka-Hennepin School District** 2020 - Present
-    - Technology Paraeducator
-        - Support staff and students with hardware and software in a classroom environment
-        - Documented technical processes and procedures
-        - Supported and distributed Chromebooks to students during distance learning (2020)
+- **Techlore** 2021 - Present
+  - *Techlore Talks* Podcast Co-host
+    - Video research, writing, and review
+  - Service Administrator
+    - Hosting and management of [discuss.techlore.tech](https://discuss.techlore.tech/) community forum
+- **MN School District 11** 2020 - 2023
+  - Technology Paraeducator
+    - Support staff and students with hardware and software in a classroom environment
+    - Documented technical processes and procedures
+    - Supported and distributed Chromebooks to students during distance learning (2020)
 - **Experimax** 2018 - 2021
-    - Sr. IT Technician
-        - Specialized in Apple software and hardware
-        - Built and launched [experimaxmn.com](https://experimaxmn.com) e-commerce platform, obtaining $20K+ in sales first year
-        - Worked with retail customers directly to resolve technology problems
-        - Documented processes & trained new hires
+  - Sr. IT Technician
+    - Specialized in Apple software and hardware
+    - Built and launched *experimaxmn.com* e-commerce platform, obtaining $20K+ in sales first year
+    - Worked with retail customers directly to resolve technology problems
+    - Documented processes & trained new hires
 - **Target** 2017 - 2018
-    - Guest Services Team Member
-        - Communicated 1-on-1 with guests and processed transactions in a retail environment to guarantee customer satisfaction.
+  - Guest Services Team Member
+    - Trained new employees and guaranteed customer satisfaction
 - **DigitalOcean** 2015 - 2016
-    - Freelance Technical Writer
-        - [Published eight tutorials](https://www.digitalocean.com/community/users/jonaharagon#:~:text=Questions-,Tutorials,-Filter%20Results) on website and server administration-related topics
-        - [Writing Work Archive](/digitalocean)
+  - Freelance Technical Writer
+    - [Published eight tutorials](https://www.digitalocean.com/community/users/jonaharagon#:~:text=Questions-,Tutorials,-Filter%20Results) on website and server administration-related topics
+    - [Writing Work Archive](/digitalocean)
+
+## Education
+
+- **University of Minnesota** (Full-Time) 2023 - 2025; PharmD ~2027
+  - *Degree in Progress* - Bachelor of Science, Biology
+- **Minnesota State** (Part-Time) 2018 - 2022
+  - Associate of Arts, Political Science
 
 ## Voluntary Work
 
 - [**Privacy Guides**](https://www.privacyguides.org) 2020 - Present
-    - Project Lead
-        - 100K+ Monthly Unique Website Visitors
-        - GitHub Code Change Review and Community Management
-        - Research and Writing on Data Privacy and Security Topics
-    - [Writing Work Archive](/privacy-guides)
+  - Project Lead
+    - 100K+ Monthly Unique Website Visitors
+    - GitHub Code Change Review and Community Management
+    - Research and Writing on Data Privacy and Security Topics
+  - [Writing Work Archive](/privacy-guides)
 - **[PrivacyTools](https://www.privacyguides.org/en/about/privacytools/) Services** 2019 - 2020
-    - I installed and maintained a variety of free online services for the PrivacyTools community, including:
-        - [Matrix](https://matrix.org/), decentralized chat
-        - [Mastodon](https://joinmastodon.org/), federated social networking
-        - [Discourse](https://www.discourse.org/), community forum
-        - [WriteFreely](https://writefreely.org/), decentralized blogging platform
+  - I created and maintained a variety of free online services for the *PrivacyTools* community, including:
+    - [Matrix](https://matrix.org/), decentralized chat
+    - [Mastodon](https://joinmastodon.org/), federated social networking
+    - [Discourse](https://www.discourse.org/), community forum
+    - [WriteFreely](https://writefreely.org/), decentralized blogging platform
 - **OpenNIC** 2016 - Present
-    - DNS Server Operator
-    - Developed and hosted project homepage at [opennic.org](https://www.opennic.org/).
-## Education
+  - DNS Server Operator
+  - Developed and hosted project homepage at [opennic.org](https://www.opennic.org/).
 
-- **University of Minnesota** ~2024
-    - *Degree in Progress*
-- **Anoka-Ramsey Community College** 2022
-    - Associate of Arts
 ## Certifications
 
 - [**CompTIA A+**](https://www.credly.com/badges/179b665e-a65e-4a88-a738-fa5c98cd686c/public_url) (2019 - 2022)
@@ -80,24 +82,24 @@ You may know me from work on the [Techlore](https://www.youtube.com/playlist?lis
 
 ## Organizations
 
-- [**Anoka-Hennepin Paraeducator Association**](https://ahparas.com/) 2021 - Present
-    - Executive Board Member
-    - Local Cluster Lead Representative
+- [**Anoka-Hennepin Paraeducator Association**](https://ahparas.com/) 2021 - 2023
+  - Executive Board Member
+  - Local Cluster Lead Representative
 
 ## IT Skills
 
 - Linux Administration
-    - CentOS, RHEL, Ubuntu Server
+  - CentOS, RHEL, Ubuntu Server
 - Git
-    - GitHub organization management
-    - Issue tracking, discussions, pull requests, code review
-    - GitHub Pages
+  - GitHub organization management
+  - Issue tracking, discussions, pull requests, code review
+  - GitHub Pages
 - DNS
-    - Authoritative zone administration
-    - Recursive nameserver operation
-    - DNSSEC
+  - Authoritative zone administration
+  - Recursive nameserver operation
+  - DNSSEC
 - Windows Server
-    - ActiveDirectory, Group Policy, etc.
+  - ActiveDirectory, Group Policy, etc.
 - Technical Writing
 - Troubleshooting & Support
 - WordPress
