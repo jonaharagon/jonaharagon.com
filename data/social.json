@@ -21,11 +21,6 @@
       "icon": "fab fa-linkedin"
     },
     {
-      "name": "Patreon",
-      "url": "https://patreon.com/jonaharagon",
-      "icon": "fab fa-patreon"
-    },
-    {
       "name": "RSS",
       "url": "/posts/index.xml",
       "icon": "fas fa-square-rss"
