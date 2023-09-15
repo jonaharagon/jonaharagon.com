@@ -1,14 +1,14 @@
 {
   "links": [
     {
-      "name": "Mastodon",
-      "url": "https://mastodon.neat.computer/@jonah",
-      "icon": "fab fa-mastodon"
-    },
-    {
       "name": "YouTube",
       "url": "https://www.youtube.com/@jonaharagon",
       "icon": "fab fa-youtube"
+    },
+    {
+      "name": "Mastodon",
+      "url": "https://mastodon.neat.computer/@jonah",
+      "icon": "fab fa-mastodon"
     },
     {
       "name": "GitHub",
