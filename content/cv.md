@@ -14,11 +14,11 @@ author:
 comments: false
 ---
 
-🌎 Minneapolis, MN • [Email](mailto:jonah@triplebit.net) • [LinkedIn](https://www.linkedin.com/in/jonaharagon/) • [GitHub](https://github.com/jonaharagon) • [Media Appearances](/interviews/)
-
-*Currently, I am a full-time pre-pharmacy student at the University of Minnesota. I am not actively seeking additional work at this time.*
+🌎 Minneapolis, MN • [Email](mailto:jonah@triplebit.net) • [LinkedIn](https://www.linkedin.com/in/jonaharagon/) • [IMDb](https://www.imdb.com/name/nm14688522/) • [GitHub](https://github.com/jonaharagon) • [Media Appearances](/interviews/)
 
 I have been a passionate digital privacy and cybersecurity advocate for many years. You may know me from my work on the [Techlore](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CZRb5Z4qZjsIGZrUWbDc3Mn) YouTube channel, including the [Techlore Talks](https://www.imdb.com/title/tt27252550/) podcast I co-host, as well as the [Privacy Guides](https://www.privacyguides.org) non-profit website which I founded and am a lead contributor to.
+
+*Currently, I am a full-time pre-pharmacy student at the University of Minnesota. I am not actively seeking additional work at this time.*
 
 ## Work Experience
 

@@ -48,20 +48,20 @@ pygmentsUseClasses = true
 
 [menu]
   [[menu.main]]
-    name = 'Accounts'
-    identifier = 'accounts'
-    url = '/accounts/'
+    name = "Videos"
+    identifier = "video"
     weight = 1
+    url = "/video/"
   [[menu.main]]
     name = "Blog"
     identifier = "blog"
     weight = 2
     url = "/posts/"
   [[menu.main]]
-    name = "Newsletter"
-    identifier = "newsletter"
+    name = 'Accounts'
+    identifier = 'accounts'
+    url = '/accounts/'
     weight = 3
-    url = "https://jonaharagon.substack.com/"
   [[menu.main]]
     name = "CV"
     identifier = "cv"
