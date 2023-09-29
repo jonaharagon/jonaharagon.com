@@ -16,7 +16,7 @@ comments: false
 
 🌎 Minneapolis, MN • [Email](mailto:jonah@triplebit.net) • [LinkedIn](https://www.linkedin.com/in/jonaharagon/) • [IMDb](https://www.imdb.com/name/nm14688522/) • [GitHub](https://github.com/jonaharagon) • [Media Appearances](/interviews/)
 
-I have been a passionate digital privacy and cybersecurity advocate for many years. You may know me from my work on the [Techlore](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CZRb5Z4qZjsIGZrUWbDc3Mn) YouTube channel, including the [Techlore Talks](https://www.imdb.com/title/tt27252550/) podcast I co-host, as well as the [Privacy Guides](https://www.privacyguides.org) non-profit website which I founded and am a lead contributor to.
+I'm a content creator and digital rights advocate focused on helping people develop safe and sustainable ways to interact with technology and protect themselves online. Through my work on the [Techlore](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CZRb5Z4qZjsIGZrUWbDc3Mn) YouTube channel, and as the founder of [Privacy Guides](https://www.privacyguides.org), I strive to empower people to take control over their digital data and identity, and feel safe using technology in their daily lives. You can find me online during episodes of the [Techlore Talks](https://www.imdb.com/title/tt27252550/) podcast I co-host, Techlore's regular livestreams, and through my open-source work on GitHub.
 
 *Currently, I am a full-time pre-pharmacy student at the University of Minnesota. I am not actively seeking additional work at this time.*
 
