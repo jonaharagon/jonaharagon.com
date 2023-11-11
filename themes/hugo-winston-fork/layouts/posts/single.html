@@ -15,5 +15,8 @@
     <div class="content">
       {{ .Content }}
     </div>
-  </div>
+
+    {{- if (.Param "comments") }}
+    {{- partial "comments.html" . }}
+    {{- end }}
 {{ end }}

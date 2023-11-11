@@ -1,0 +1,18 @@
+<h2>Comments</h2>
+<div id='discourse-comments'></div>
+<meta name='discourse-username' content='jonah'>
+
+<script type="text/javascript">
+  DiscourseEmbed = {
+    discourseUrl: 'https://discourse.jonaharagon.com/',
+    discourseEmbedUrl: '{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}',
+    // className: 'CLASS_NAME',
+  };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
+</div>
