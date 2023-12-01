@@ -1,20 +1,37 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/assets/webfonts/montserrat-700-normal.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/assets/webfonts/montserrat-700-italic.woff2) format('woff2');
+}
+
 :root {
-  --font-family-heading: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-heading: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-paragraph: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --base-color: var(--arc-palette-background, #ffffff);
-  --highlight-color: var(--arc-palette-maxContrastColor, #7b16ff);
-  --heading-color: var(--arc-palette-title, #1c1b1d);
+  --base-color: hsl(0, 0%, 100%);
+  --highlight-color: hotpink;
+  --heading-color: #1c1b1d;
   --text-color: #4e5157;
-  --dot-color: var(--arc-palette-maxContrastColor, #7b16ff);
+  --dot-color: hotpink;
+  --anaglyph-top: cyan;
+  --anaglyph-bottom: hotpink;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --base-color: var(--arc-palette-title, #1c1b1d);
-    --highlight-color: var(--arc-palette-background, #b688f3);
-    --heading-color: var(--arc-palette-background, #ffffff);
-    --text-color: var(--arc-palette-focus, #bbbbbb);
-    --dot-color: var(--arc-palette-maxContrastColor, #7b16ff);
+    --base-color: #1c1b1d;
+    --highlight-color: red;
+    --heading-color: #ffffff;
+    --text-color: #bbbbbb;
+    --dot-color: #7b16ff;
+    --anaglyph-top: blue;
+    --anaglyph-bottom: red;
   }
   .highlight {
     color: black;
@@ -63,4 +80,27 @@ body {
 .wrapper {
   max-width: 1000px;
   margin: 0 auto;
+}
+
+a.header-logo span {
+  color: var(--heading-color);
+  position: absolute;
+  font-family: var(--font-family-heading);
+}
+a.header-logo span::before {
+  content: "Jonah Aragon";
+  color: var(--anaglyph-top);
+  position: absolute;
+  top: -0.1em;
+  left: -0.1em;
+  z-index: -2;
+}
+a.header-logo span::after {
+  content: "Jonah Aragon";
+  color: var(--anaglyph-bottom);
+  position: absolute;
+  top: 0.1em;
+  left: 0.1em;
+  width: 100%;
+  z-index: -1;
 }
