@@ -23,6 +23,7 @@ The best way to get in touch with me is via email at jonah@triplebit.net.
 I am not generally available via IM and will likely not respond to any message requests in a timely manner, but if you do receive a message from me, I use the following accounts:
 
 - Matrix: [`@jonah:neat.chat`](https://matrix.to/#/@jonah:neat.chat)
+- SimpleX: [QR Code](/simplex)
 - Signal: if you have my number.
 - iMessage: My public verification code is `APKTID2n1WVYFiR3FuzlTrWYsO_v0kJ6EWGkNbwXQBjm3vMINpZA`. You can add it to my contact card on your iPhone by editing my contact in the *Contacts* app, and selecting **add verification code** towards the bottom of the editor.
 
