@@ -105,3 +105,7 @@ a.header-logo span::after {
   width: 100%;
   z-index: -1;
 }
+
+.content code {
+  word-wrap: break-word;
+}

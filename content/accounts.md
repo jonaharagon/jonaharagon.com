@@ -14,11 +14,11 @@ author:
 comments: false
 ---
 
-## Contact Me
+## Contact me
 
 The best way to get in touch with me is via email at jonah@triplebit.net.
 
-## Instant Messaging
+## Instant messaging
 
 I am not generally available via IM and will likely not respond to any message requests in a timely manner, but if you do receive a message from me, I use the following accounts:
 
@@ -29,7 +29,7 @@ I am not generally available via IM and will likely not respond to any message r
 
 If you receive a message claiming to be me from an account not listed here, please email me to confirm that account's identity.
 
-## Social Media
+## Social media
 
 - Mastodon: [@jonah@neat.computer](https://mastodon.neat.computer/@jonah)
 - YouTube: [@jonaharagon](https://youtube.com/@jonaharagon)
@@ -69,3 +69,11 @@ My Proton Mail account will not decrypt messages using the key above, and instea
 Again, you may obtain these keys via WKD if you know the associated email address.
 
 I previously used [`6325C3370B70177138ABF3086A957C9A9A9429F7`](/pgp/6325C3370B70177138ABF3086A957C9A9A9429F7.asc), but no longer do.
+
+## Send me a tip
+
+If you like the work I do, I would appreciate any support you're able to give on [Ko-Fi](https://ko-fi.com/jonaharagon) or [Liberapay](https://liberapay.com/jonah).
+
+- **Monero:** ([most private!](https://www.privacyguides.org/en/advanced/payments/)) `45i7M1FfXuBHLMdWm4ZTvFM5tGTSeibjEBpFSBCs2qbSRrHkUpKN5DRVK7T65hbg3WhGXepH7y6Xvb8XdxBmBS8V4AJXtyC`
+- **Bitcoin:** `bc1q3kr3qkzfjklajjgl3fssrqtlqtw89fufuwzg4e`
+- **Ethereum:** `0xDe523fa235480707Ed54B39adA9c0B0eB4Bbc118`
